@@ -1,5 +1,5 @@
   services:
   - type: web
-    name: artclass
+    name: artclass-ziziidesu
     env: docker
     plan: free
